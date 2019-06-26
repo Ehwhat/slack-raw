@@ -7,10 +7,10 @@ body {
     -webkit-font-smoothing: auto;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
-   font-family: 'Muli', sans-serif !important;
+   font-family: 'Roboto', sans-serif !important;
 }
 .p-threads_footer__input--legacy .p-message_input_field .ql-editor {
-  font-family: 'Muli', sans-serif !important;
+  font-family: 'Roboto', sans-serif !important;
 }
 div.c-message.c-message--light.c-message--hover {
     color: grey !important;
@@ -708,15 +708,15 @@ a.file_download_link:hover {
 .c-deprecated_rounded_button:visited {
     color: white !important;
 }
-.p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
-    border-left: 2px solid #ff5656;
-    padding-left: 6px;
-    height: 20px;
-    overflow: hidden;
-    line-height: 16px;
-    font-size: 17px;
-   font-weight:700;
-}
+//.p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
+//    border-left: 2px solid #ff5656;
+//    padding-left: 6px;
+//    height: 20px;
+//    overflow: hidden;
+//    line-height: 16px;
+//    font-size: 17px;
+//   font-weight:700;
+//}
 .p-search_filter__date_readout {
     color: #ffb28a !important;
 }
